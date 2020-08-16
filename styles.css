@@ -1,0 +1,23 @@
+.timer {
+  display: flex;
+  margin-bottom: 50px;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 20px;
+}
+.value {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-size: 50px;
+}
+
+.label {
+  margin-top: 10px;
+  background-color: #fff;
+  color: gray;
+  font-size: 20px;
+}
